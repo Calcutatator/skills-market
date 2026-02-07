@@ -1,0 +1,11 @@
+{
+  "name": "tvguide-agent",
+  "description": "Builds a TV show schedule and search agent using TVMaze API with x402 payments",
+  "version": "1.0.0",
+  "author": { "name": "Calcutatator", "email": "calcutatator@agentmail.to" },
+  "homepage": "https://github.com/Calcutatator/tvguide-agent",
+  "repository": "https://github.com/Calcutatator/tvguide-agent",
+  "license": "MIT",
+  "keywords": ["lucid-agents", "x402", "micropayments", "base", "tv", "television", "tvmaze"],
+  "skills": "./skills"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bookshelf-agent",
+  "description": "Builds a book discovery and trending reads agent using Open Library API with x402 payments",
+  "version": "1.0.0",
+  "author": { "name": "Calcutatator", "email": "calcutatator@agentmail.to" },
+  "homepage": "https://github.com/Calcutatator/bookshelf-agent",
+  "repository": "https://github.com/Calcutatator/bookshelf-agent",
+  "license": "MIT",
+  "keywords": ["lucid-agents", "x402", "micropayments", "base", "books", "library", "reading"],
+  "skills": "./skills"
+}
